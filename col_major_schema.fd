@@ -1,0 +1,7 @@
+##name hello_columns
+##extension .txt
+##type column
+##delimiter , 
+
+[[name]][[likes]][[school]]
+ 
